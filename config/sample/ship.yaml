@@ -1,0 +1,8 @@
+apiVersion: voyager.tlon.io/v1
+kind: Ship
+metadata:
+  name: test-ship
+spec:
+  image: nginx
+  keys:
+    name: test-ship
